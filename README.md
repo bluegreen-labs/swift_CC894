@@ -1,6 +1,6 @@
 # Insights from tracking a 19 month non-stop flight of a sub-adult common swift
 
-Lyndon Kearsley, Christoph M. Meier, James W. Fox, Stef Vercauteren, Ann Van Gysel, Koen Hufkens
+**Lyndon Kearsley**, Christoph M. Meier, James W. Fox, Stef Vercauteren, Ann Van Gysel, **Koen Hufkens**
 
 We present a 19 months of continuous monitored flight in a combined dataset collected through a Multi-DataLogger (MDL) geolocator on a single sub-adult common swift through serendipitous logging event. The strong correspondence between sub-adult and adult flight patterns, in both migration and overall non-breeding moonlight driven flight strategy, provides indications that this is the result of a genetically fixed trait and the learned experience during a relatively long sub-adult stage of a long-lived species like swifts. Deviations from established moonlight-driven patterns during the breeding season highlight a potential flight response to anthropogenic light sources (sky glow). Our findings refine research avenues with respect to the behaviour of sub-adult swifts in relation to migration strategies and the potential influence of sky glow on (diurnal) foraging strategies.
 
